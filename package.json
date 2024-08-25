@@ -24,7 +24,7 @@
   "devDependencies": {
     "jest": "^29.6.1",
     "nodemon": "^3.1.0",
-    "sonar-scanner": "^4.7.0"
+    "sonar-scanner": "6.1.0"
   },
   "jest": {
     "testEnvironment": "node",
